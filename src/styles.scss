@@ -1,0 +1,15 @@
+$side-padding: 0.5rem;
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 0 $side-padding;
+}
